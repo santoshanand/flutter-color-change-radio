@@ -1,6 +1,6 @@
-# stackoverflow
+# Flutter Color Change Radio with Provider
 
-A new Flutter project.
+Sample project
 
 ## Getting Started
 
